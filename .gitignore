@@ -1,0 +1,10 @@
+*.swp
+
+node_modules
+typings
+firebase-debug.log
+npm-debug.log
+
+app/**/*.js
+app/**/*.js.map
+
